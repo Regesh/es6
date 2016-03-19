@@ -12,7 +12,7 @@ var Mammal = function () {
 	function Mammal() {
 		_classCallCheck(this, Mammal);
 
-		this.type = 'Mammal [super class!!!]';
+		this.type = 'Mammal [super class!!!!]';
 		this.hasFurr = true;
 	}
 
