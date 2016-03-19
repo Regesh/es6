@@ -1,6 +1,6 @@
 class Mammal{
 	constructor(){
-		this.type = 'Mammal [super class!!!?]';
+		this.type = 'Mammal [main class]';
 		this.hasFurr = true;
 	}
 
